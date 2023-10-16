@@ -1,0 +1,1 @@
+# AZSIIPR2-Stelmach
