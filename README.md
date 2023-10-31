@@ -1,2 +1,2 @@
-# Stelmach-Nikita-Egenevich-prz-2
+# Stelmach-Nikita-Egenevich-prz-2 + lab 1
 Автор: студент РТУ МИРЭА группы ББМО-02-22 Стельмах Никита Евгеньевич
